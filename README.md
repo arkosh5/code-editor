@@ -5,7 +5,7 @@ This is a simple web application that allows you to write HTML, CSS, and JavaScr
 To use this application, you can clone the repository to your local machine:
 
 
-```git clone https://github.com/<username>/code-editor-app.git```
+```git clone https://github.com/arkosh5/code-editor.git```
 Navigate to the root directory of the project and run:
 
 
